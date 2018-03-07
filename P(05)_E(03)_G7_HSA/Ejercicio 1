@@ -1,0 +1,7 @@
+PROCESO ejercicio_1
+	//Definir m,p como Real;
+	Escribir "Ingrese las medidas en metros que necesita";
+	Leer m;
+	p<-(0.0254*m);
+	Escribir "Las medidas en pulgadas son:", p;
+FinProceso

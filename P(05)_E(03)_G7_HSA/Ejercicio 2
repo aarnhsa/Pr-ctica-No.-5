@@ -1,0 +1,10 @@
+PROCESO ejercicio_2
+	//DEFINIR n, como real
+	ESCRIBIR "Proporcione numero real";
+	LEER n;
+	Si n>0 Entonces
+		ESCRIBIR "El numero n es positivo";
+	Sino
+		ESCRIBIR "Proporcione numero real";
+	FinSi
+FinProceso

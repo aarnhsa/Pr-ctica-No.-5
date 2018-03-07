@@ -1,0 +1,10 @@
+Proceso ejercicio_3
+	//DEFINIR n como real;
+	ESCRIBIR "Ingrese numero real";
+	LEER n;
+	Si n>0 Entonces
+		ESCRIBIR "El numero es positivo";
+	Sino
+		ESCRIBIR "El numero es negativo";
+	FinSi
+FinProceso

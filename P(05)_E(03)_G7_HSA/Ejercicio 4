@@ -1,0 +1,15 @@
+Proceso ejercicio_4
+	//DEFINIR n como real;
+	ESCRIBIR "Ingrese numero real";
+	LEER n;
+	Si n>0 Entonces
+		ESCRIBIR "El numero es positivo";
+	Sino
+		Si n<0 Entonces
+			ESCRIBIR "El numero es negativo";
+		Sino 
+			ESCRIBIR "El numero es neutro";
+		FinSi
+	FinSi
+	
+FinProceso
